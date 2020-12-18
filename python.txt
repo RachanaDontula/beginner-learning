@@ -1,0 +1,22 @@
+Python is both interpreted and compiled language.
+
+Source code--> Compiler--> Byte code-->
+-->Interpreter--> Machine Language
+               |
+               |
+      (Virtual machine does this)
+
+Interpreted language:
+Interpreter will read each line of instruction
+one by one and start executing line by line.
+
+PVM- python virtual machine.
+
+CPYTHON - internal working(implimentation) is with C language. Widely used
+Python is a language
+Cpython is an implimentation of python.
+
+like cpython, we have
+PyPy
+IRONPYTHON - dot net implimentationm
+JYTHON - implimentation is done using java platform

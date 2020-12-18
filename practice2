@@ -1,0 +1,25 @@
+
+str1='ABCD'
+str2='PQR'
+for i in range(4):
+     print(str1[:i+1] + str2[i:])
+
+
+n = [11,13,25,65,22]
+for j in n:
+     if j % 3 == 0:
+          print(j)
+          break
+
+else:
+     print("not found")
+
+# prime number
+num = int(input("enter any number: "))
+for k in range(2, num):
+    if num % k == 0:
+        print("it's not a prime number")
+        break
+    else:
+         print("it's a prime number")
+         break

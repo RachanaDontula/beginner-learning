@@ -1,0 +1,35 @@
+
+Python supports Functional programming
+also supports object oriented programming
+and procedure oriented programming too.
+
+procedure oriented:  while working with software, code will be divided into small modules
+                     those small modules will be functions.
+Functional programming: without changing data, or manipulating data,
+                        functions are used as mathematical functions.
+oops:  trying to solve real world problems with virtual world solutions.
+        eg: we need object in real world to do an work. like, calling needs mobile as an object.
+
+
+
+objects: it contains attributes and behaviour
+attribute: property/data  for defining we use variables
+behaviour: actions   for defining we use methods
+methods: functions in oops are called as methods
+
+oops:  topics:
+objects
+class
+encapsulation
+polymorphism
+abstraction
+
+
+class: Design/ blueprint
+objects: instance(real entity/ real stuff) of a class
+
+
+everything is an object in python class.
+to access the method/function inside class, we have to mention
+'classname.methodname(objectname)' or 'objectname.methodname()'
+methods change their behaviour depend upon objects
